@@ -1,11 +1,25 @@
 {
 	"users": [
 		{
-			"id": "003",
-			"login": "daniil",
+			"id": "001",
+			"login": "anton",
 			"password": "qwerty123",
 			"registed_at": "2050-09-22",
 			"role_id": 0
+		},
+		{
+			"id": "002",
+			"login": "daniil",
+			"password": "qwerty123",
+			"registed_at": "2050-08-22",
+			"role_id": 0
+		},
+		{
+			"id": "003",
+			"login": "Sergey",
+			"password": "qwerty123",
+			"registed_at": "2050-10-22",
+			"role_id": 1
 		}
 	],
 	"roles": [

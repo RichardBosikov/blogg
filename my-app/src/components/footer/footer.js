@@ -45,10 +45,10 @@ export const Footer = styled(FooterContainer)`
 	height: 120px;
 	padding: 20px 40px;
 	font-weight: bold;
-	background-color: #fff;
-	box-shadow: 0px 2px 17px #000;
+	background-color: rgb(255, 255, 255);
+	box-shadow: rgb(0, 0, 0) 0px 2px 17px;
 `;
 
-// смиберсофт
+// сиберсофт
 // кодмастерс
 // хедандхендс
