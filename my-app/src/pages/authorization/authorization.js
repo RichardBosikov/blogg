@@ -65,7 +65,7 @@ const AuthotizationContainer = ({ className }) => {
 				setServerError(`Ошибка запроса: ${error}`);
 				return;
 			}
-			console.log(res);
+
 			dispatch(setUser(res));
 		});
 	};

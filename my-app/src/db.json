@@ -8,25 +8,11 @@
       "role_id": 0
     },
     {
-      "login": "ivan",
-      "password": "qwerty123",
-      "registed_at": "2057-07-12 11:33",
-      "role_id": 2,
-      "id": "ABUoRsy"
-    },
-    {
       "login": "sergey",
       "password": "qwerty123",
       "registed_at": "2036-05-04 23:53",
-      "role_id": 2,
+      "role_id": 1,
       "id": "1S1sbRH"
-    },
-    {
-      "login": "ivan3",
-      "password": "qwerty123",
-      "registed_at": "2062-03-12 12:29",
-      "role_id": 2,
-      "id": "Qq5hood"
     }
   ],
   "roles": [
