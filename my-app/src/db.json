@@ -116,13 +116,6 @@
     {
       "author_id": "001",
       "post_id": "001",
-      "published_at": "2050-06-05 01:06",
-      "content": "Второй коммент",
-      "id": 2
-    },
-    {
-      "author_id": "001",
-      "post_id": "001",
       "published_at": "2047-03-18 23:55",
       "content": "Третий коммент",
       "id": 3
@@ -140,27 +133,6 @@
       "published_at": "2039-06-17 18:19",
       "content": "слон красава",
       "id": 5
-    },
-    {
-      "author_id": "001",
-      "post_id": "001",
-      "published_at": "2034-09-19 12:44",
-      "content": "один гей",
-      "id": 6
-    },
-    {
-      "author_id": "001",
-      "post_id": "001",
-      "published_at": "2051-01-13 17:46",
-      "content": "Новый комментарий\n",
-      "id": 7
-    },
-    {
-      "author_id": "001",
-      "post_id": "001",
-      "published_at": "2052-03-01 17:30",
-      "content": "svdsdvsdv",
-      "id": 8
     }
   ],
   "sessions": [
