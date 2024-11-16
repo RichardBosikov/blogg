@@ -4,7 +4,7 @@ import { useDispatch } from 'react-redux';
 import { Routes, Route } from 'react-router-dom';
 import { setUser } from './actions';
 import { useLayoutEffect } from 'react';
-import { Authotization, Registration, Users, Post } from './pages';
+import { Authotization, Registration, Users, Post, Main } from './pages';
 
 const AppColumn = styled.div`
 	display: flex;
@@ -44,7 +44,7 @@ export const Blog = () => {
 			<Header />
 			<Page>
 				<Routes>
-					<Route path="/" element={<div>Главная страница</div>} />
+					<Route path="/" element={<Main />} />
 					<Route path="/login" element={<Authotization />} />
 					<Route path="/register" element={<Registration />} />
 					<Route path="/users" element={<Users />} />
