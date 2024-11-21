@@ -5,14 +5,35 @@
       "login": "anton",
       "password": "qwerty123",
       "registed_at": "2050-09-22",
-      "role_id": 0
+      "role_id": 1
     },
     {
       "login": "sergey",
       "password": "qwerty123",
       "registed_at": "2036-05-04 23:53",
-      "role_id": 1,
+      "role_id": 2,
       "id": "1S1sbRH"
+    },
+    {
+      "login": "ivan",
+      "password": "qwerty123",
+      "registed_at": "2055-04-08 17:49",
+      "role_id": 2,
+      "id": "z7TYN3C"
+    },
+    {
+      "login": "daniil",
+      "password": "qwerty123",
+      "registed_at": "2039-02-09 21:41",
+      "role_id": 0,
+      "id": "PTMHjan"
+    },
+    {
+      "login": "qwerty",
+      "password": "qwerty123",
+      "registed_at": "2053-01-28 01:35",
+      "role_id": 2,
+      "id": "37TaOl9"
     }
   ],
   "roles": [
@@ -119,6 +140,27 @@
       "published_at": "2042-02-18 00:22",
       "content": "иордржшщ",
       "id": 1
+    },
+    {
+      "author_id": "001",
+      "post_id": "003",
+      "published_at": "2061-05-23 05:57",
+      "content": "dfmkvldfv\n",
+      "id": 3
+    },
+    {
+      "author_id": "001",
+      "post_id": "003",
+      "published_at": "2044-08-25 02:30",
+      "content": "dfvdfv",
+      "id": 4
+    },
+    {
+      "author_id": "001",
+      "post_id": "003",
+      "published_at": "2062-06-11 07:06",
+      "content": "dfvdfvd",
+      "id": 5
     }
   ],
   "sessions": [
@@ -165,6 +207,17 @@
         "roleId": 0
       },
       "id": 4
+    },
+    {
+      "hash": "0.67687697158444004585930997563991695642471313476563",
+      "user": {
+        "id": "PTMHjan",
+        "login": "daniil",
+        "password": "qwerty123",
+        "registeredAt": "2039-02-09 21:41",
+        "roleId": 0
+      },
+      "id": 5
     }
   ]
 }
