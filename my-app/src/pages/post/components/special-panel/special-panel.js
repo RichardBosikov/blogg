@@ -4,7 +4,7 @@ import { removePostAsync } from '../../../../actions';
 import { useServerRequest } from '../../../../hooks';
 import { CLOSE_MODAL } from '../../../../actions';
 import { useDispatch, useSelector } from 'react-redux';
-
+import PropTypes from 'prop-types';
 import { Icon } from '../../../../components';
 import { checkAccess } from '../../../../utils';
 import { ROLE } from '../../../../constants';
@@ -83,3 +83,9 @@ export const SpecialPanel = styled(SpecialPanelContainer)`
 		top: -1px;
 	}
 `;
+
+SpecialPanel.propTypes = {
+	id: PropTypes.string.isRequired,
+	publishedAt: PropTypes.string.isRequired,
+	editButton: PropTypes.node.isRequired,
+};
